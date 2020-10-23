@@ -5,4 +5,3 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('tweets.csv')
 
-text = df.text.values
