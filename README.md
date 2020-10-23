@@ -5,7 +5,7 @@ The 2017 Presidential Election in France pitted Emmanuel Macron against Marine L
 
 The following graphs were taken from [this](https://www.nytimes.com/interactive/2017/05/07/world/europe/france-election-results-maps.html?mtrref=www.google.com&assetType=REGIWALL) New York Times article, "How France Voted", written by GREGOR AISCH, MATTHEW BLOCH, K.K. REBECCA LAI and BENOÎT MORENNE in 2017. We felt these images, and the article itself, did a great job of summarizing geographic differences for the candidates' supporters.
 
-![France Voter Map](images/france_voter_map.png)
+![France Voter Map](images/france_map.png)
 
 ![Le Pen Support & Unemployment](images/le_pen_support.png)
 
@@ -70,6 +70,6 @@ We were curious to see which accounts were the most active during the election t
 
 ## Tweeters with the Most Influence
 
-![image](twitter_followers.png)
+![image](images/twitter_followers.png)
 
 We assumed that twitter users with a greater following would therefore also have a greater outreach. We wanted to see and compare these these users with the Active Tweeters to see if they were doing their due dilligence and tweeting about the election to inform their fanbase who they were going to vote for and why. It turns out none of the top followers were apart of the most active tweeters list. Once we recognized this, we looked further into the election to find that twitter bots had taken over a part of it, and spammed hashtags such as #MacronLeaks and #MacronGates. After looking back into the most active users and their accounts we found that most of the users were banned.
