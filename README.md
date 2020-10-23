@@ -39,8 +39,19 @@ We were then curious as to how these cities compared with the geographic distrib
 
 ## Word Cloud 
 
-A very ugly world cloud
-![image](images/ugly_cloud.png)
+In an attempt to look at a display of the most common words used during this election I put together two clouds. The first cloud represents all of the most common English words with unnecessary words removed. The second cloud represents the most commonly used French words.
+
+
+ 
+
+![image](images/english_cloud.png)
+
+By filtering the language of each tweet, we were able to seperate english and french. So for any french speakers here's that cloud.
+
+
+![image](images/french2_cloud.png)
+
+
 
 
 
