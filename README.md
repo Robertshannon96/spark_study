@@ -5,7 +5,7 @@ The 2017 Presidential Election in France pitted Emmanuel Macron against Marine L
 
 The following graphs were taken from [this](https://www.nytimes.com/interactive/2017/05/07/world/europe/france-election-results-maps.html?mtrref=www.google.com&assetType=REGIWALL) New York Times article, "How France Voted", written by GREGOR AISCH, MATTHEW BLOCH, K.K. REBECCA LAI and BENOÎT MORENNE in 2017. We felt these images, and the article itself, did a great job of summarizing geographic differences for the candidates' supporters.
 
-![France Voter Map](images/france_map.png)
+![France Voter Map](images/frace_voter_map.png)
 
 ![Le Pen Support & Unemployment](images/le_pen_support.png)
 
