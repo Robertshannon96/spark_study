@@ -29,11 +29,12 @@ Out of a mass of attributes we chose to narrow down to only a few important colu
 ## Geographic Distribution
 In order to look at geographic distrubtion, we parsed the 'place' string in the data set to extract the location from which the tweet was sent. If the location did not have any city identifiers within France, they were filtered out for the purposes of this graph so that we could gleam a bit more information from this exercise. While most of the locations were indeed French cities, we were suprised to find that a handful out of the top 25 locations were outside of France. The below bar chart shows the top 25 locations from which tweets from this data set were sent.
 
-![image](images/NYT_image_cities1.png)
+![top_5_cities](images/top_tweeting_cities.png)
+
 
 We were then curious as to how these cities compared with the geographic distribution of voter results that we looked at earlier, so we overlaid the top five french cities from which people were tweeting about the election on the image below.
 
-![top_5_cities](images/top_tweeting_cities.png)
+![image](images/NYT_image_cities1.png)
 
 --------------------------------------------------
 
